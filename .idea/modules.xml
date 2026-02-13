@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HW01_Jotto.iml" filepath="$PROJECT_DIR$/.idea/modules/HW01_Jotto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HW01_Jotto.main.iml" filepath="$PROJECT_DIR$/.idea/modules/HW01_Jotto.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HW01_Jotto.test.iml" filepath="$PROJECT_DIR$/.idea/modules/HW01_Jotto.test.iml" />
+    </modules>
+  </component>
+</project>
