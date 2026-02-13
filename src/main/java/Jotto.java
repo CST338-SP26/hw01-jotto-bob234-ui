@@ -16,7 +16,7 @@ import java.util.Scanner;
 public class Jotto {
 
     // Constant fields (per spec)
-    private static final boolean DEBUG = false; // set to true to know the word beforehand for debugging
+    private static final boolean DEBUG = true; // set to true to know the word beforehand for debugging
     private static final int WORD_SIZE = 5;
 
     // Members (per UML/spec)
